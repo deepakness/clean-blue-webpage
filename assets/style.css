@@ -1,0 +1,54 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Martel', serif;
+    font-size: 24px;
+    line-height: 1.6;
+    color: #bef5ff;
+    background-color: #007dff;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 120px 20px;
+}
+
+.container p{
+    margin: 30px 0;
+}
+
+strong{
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+ul li::before {
+    content: '—'; 
+    padding-right: 10px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    border-bottom: #bef5ff 2px solid;
+}
+
+a:hover {
+    border-bottom: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+    line-height: 1.2;
+}
