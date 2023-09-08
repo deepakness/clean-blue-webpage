@@ -6,4 +6,4 @@ Here's how it looks [when hosted](https://deepakness.github.io/clean-blue-webpag
 
 ![Clean Blue Webpage](/assets/screenshot.png)
 
-You can download the contents of this repository or fork it to your account, to start using.
+You can either [download this repository](https://github.com/deepakness/clean-blue-webpage/archive/refs/heads/master.zip) or [fork it to your account](https://github.com/deepakness/clean-blue-webpage/fork), to start using.
